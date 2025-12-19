@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-18T07:08:30 IST" name="Default suite" finished-at="2025-12-18T07:08:30 IST" duration-ms="339">
+  <suite started-at="2025-12-19T07:10:34 IST" name="Default suite" finished-at="2025-12-19T07:10:34 IST" duration-ms="296">
     <groups>
       <group name="smoke">
         <method signature="Practice1Test.CarTest()[pri:0, instance:Demo.Practice1Test@515aebb0]" name="CarTest" class="Demo.Practice1Test"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2025-12-18T07:08:30 IST" name="Default test" finished-at="2025-12-18T07:08:30 IST" duration-ms="339">
+    <test started-at="2025-12-19T07:10:34 IST" name="Default test" finished-at="2025-12-19T07:10:34 IST" duration-ms="296">
       <class name="Demo.Practice1Test">
-        <test-method signature="CarTest()[pri:0, instance:Demo.Practice1Test@515aebb0]" started-at="2025-12-18T07:08:30 IST" name="CarTest" finished-at="2025-12-18T07:08:30 IST" duration-ms="86" status="PASS">
+        <test-method signature="CarTest()[pri:0, instance:Demo.Practice1Test@515aebb0]" started-at="2025-12-19T07:10:34 IST" name="CarTest" finished-at="2025-12-19T07:10:34 IST" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CarTest -->
