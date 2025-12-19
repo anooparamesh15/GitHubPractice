@@ -7,5 +7,6 @@ public class Practice2Test {
 	public void BikeTest()
 	{
 		System.out.println("yamaha");
+		System.out.println("royal enfield");
 	}
 }
